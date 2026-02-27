@@ -2,6 +2,9 @@
 
 A lightweight, always-on-top desktop app for quickly capturing notes directly into your Obsidian vault. Built with Tauri, React, and TypeScript.
 
+<img width="452" height="964" alt="image" src="https://github.com/user-attachments/assets/e4c7ba67-cda6-4d0f-8d44-51a80d9cf890" />
+
+
 ## Features
 
 - **Quick Note Capture**: Rapidly create notes without switching to Obsidian
